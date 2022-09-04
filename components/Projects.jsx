@@ -13,10 +13,10 @@ const Projects = () => {
         <h2 className='py-4'>What I've Build</h2>
         <div className='grid md:grid-cols-2 gap-8'>
         
-          <ProjectItems title='Property Finder' backgroundImg={propertyImg} projectUrl={'/property'} demoLink={'#'}/>
-          <ProjectItems title='Crypto App' backgroundImg={cryptoImg} projectUrl={'/property'} demoLink={'#'}/>
-          <ProjectItems title='Netflix' backgroundImg={netflixImg} projectUrl={'/property'} demoLink={'#'}/>
-          <ProjectItems title='Twitch' backgroundImg={twitchImg} projectUrl={'/property'} demoLink={'#'}/>
+          <ProjectItems title='Property Finder' backgroundImg={propertyImg}  demoLink={'#'}/>
+          <ProjectItems title='Crypto App' backgroundImg={cryptoImg}  demoLink={'#'}/>
+          <ProjectItems title='Netflix' backgroundImg={netflixImg}  demoLink={'#'}/>
+          <ProjectItems title='Twitch' backgroundImg={twitchImg}  demoLink={'#'}/>
 
         </div>
       </div>
