@@ -66,7 +66,7 @@ const Navbar = () => {
               </div>
             </div>
             <div className='border-b border-gray-500 my-4'>
-              <p className='w-[85%] md-w-[90%] py-4 text-sm'> Let's Build cool Websites</p>
+              <p className='w-[85%] md-w-[90%] py-4 text-sm'> Lets Build cool Websites</p>
             </div>
           </div>
           <div className=' flex flex-col'>
@@ -88,7 +88,7 @@ const Navbar = () => {
               </Link>
             </ul>
             <div className='pt-40'>
-              <p className='uppercase tracking-widest text-[#5651e5] font-semibold'>Let's Connect</p>
+              <p className='uppercase tracking-widest text-[#5651e5] font-semibold'>Lets Connect</p>
               <div className='my-4 flex items-center justify-between w-full sm:w-[80%] text-black'>
                 <div className='cursor-pointer p-3 rounded-full shadow-lg shadow-gray-400'>
                   <GrLinkedinOption />
